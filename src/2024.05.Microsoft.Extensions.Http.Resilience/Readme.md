@@ -1,0 +1,1 @@
+This solution allows reproducing an issue when referencing `Microsoft.Extensions.Http.Resilience` and also referencing an assembly that includes `Microsoft.Extensions.Logging.LoggerMessageAttribute` as an internal type.
